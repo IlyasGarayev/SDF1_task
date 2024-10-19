@@ -1,0 +1,20 @@
+[
+  {
+    "Team1": "Team A",
+    "Team2": "Team C",
+    "Score1": 1,
+    "Score2": 2
+  },
+  {
+    "Team1": "Team B",
+    "Team2": "Team A",
+    "Score1": 1,
+    "Score2": 2
+  },
+  {
+    "Team1": "Team B",
+    "Team2": "Team A",
+    "Score1": 1,
+    "Score2": 2
+  }
+]

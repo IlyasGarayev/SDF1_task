@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\ui\\gameresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\gameresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\ui\\registerform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\registerform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\sdf\\ui\\gameresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\gameresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\data\\database\\teams.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\data\\database\\teams.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\data\\database\\score.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\data\\database\\score.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\sdf\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\data\\database\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\data\\database\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\sdf\\ui\\registerform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\registerform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\ui\\gameresultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\gameresultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\ui\\registerform .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\registerform .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\core\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\core\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\data\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\data\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|c:\\users\\lenovo ideapad\\desktop\\sdf\\sdf\\sdf\\core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C524996F-B1BD-43F4-B06C-083691E7F36C}|Sdf\\Sdf.csproj|solutionrelative:sdf\\core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Sdf\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "Sdf\\Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "teams.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Database\\teams.json",
+              "RelativeDocumentMoniker": "Sdf\\Data\\Database\\teams.json",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Database\\teams.json",
+              "RelativeToolTip": "Sdf\\Data\\Database\\teams.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T06:55:06.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "score.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Database\\score.json",
+              "RelativeDocumentMoniker": "Sdf\\Data\\Database\\score.json",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Database\\score.json",
+              "RelativeToolTip": "Sdf\\Data\\Database\\score.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T06:55:06.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Database\\users.json",
+              "RelativeDocumentMoniker": "Sdf\\Data\\Database\\users.json",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Database\\users.json",
+              "RelativeToolTip": "Sdf\\Data\\Database\\users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T06:55:06.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Sdf\\UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\LoginForm.cs",
+              "RelativeToolTip": "Sdf\\UI\\LoginForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterForm .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\RegisterForm .cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\RegisterForm .cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Sdf\\Sdf\\UI\\RegisterForm .cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\student\\Desktop\\Sdf\\Sdf\\UI\\RegisterForm .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-19T06:55:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameResultsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\GameResultsForm.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\GameResultsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\GameResultsForm.cs",
+              "RelativeToolTip": "Sdf\\UI\\GameResultsForm.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJ0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameResultsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\GameResultsForm.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\GameResultsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\GameResultsForm.cs [Design]",
+              "RelativeToolTip": "Sdf\\UI\\GameResultsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\RegisterForm .cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\RegisterForm .cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\RegisterForm .cs",
+              "RelativeToolTip": "Sdf\\UI\\RegisterForm .cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowF4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Sdf\\UI\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Core\\Models\\Score.cs",
+              "RelativeDocumentMoniker": "Sdf\\Core\\Models\\Score.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Core\\Models\\Score.cs",
+              "RelativeToolTip": "Sdf\\Core\\Models\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Core\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Sdf\\Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Core\\Models\\Team.cs",
+              "RelativeToolTip": "Sdf\\Core\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameResultsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\GameResultsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\GameResultsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\GameResultsForm.Designer.cs",
+              "RelativeToolTip": "Sdf\\UI\\GameResultsForm.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Program.cs",
+              "RelativeDocumentMoniker": "Sdf\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Program.cs",
+              "RelativeToolTip": "Sdf\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm .Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\RegisterForm .Designer.cs",
+              "RelativeDocumentMoniker": "Sdf\\UI\\RegisterForm .Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\UI\\RegisterForm .Designer.cs",
+              "RelativeToolTip": "Sdf\\UI\\RegisterForm .Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Core\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Sdf\\Core\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Core\\Models\\Users.cs",
+              "RelativeToolTip": "Sdf\\Core\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Sdf\\Data\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\Desktop\\Sdf\\Sdf\\Sdf\\Data\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Sdf\\Data\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:55:06.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
